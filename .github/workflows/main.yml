@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: Abhinav-TF/solid-octa-goggles/
+        uses: Abhinav-TF/solid-octa-goggles@82ed9c20bcbb34a4be7ae95046eca003120d6118
         with:
           who-to-greet: Mona the Octocat
 
